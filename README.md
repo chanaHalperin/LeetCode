@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chanaHalperin/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chanaHalperin/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chanaHalperin/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chanaHalperin/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chanaHalperin/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
