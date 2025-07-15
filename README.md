@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chanaHalperin/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chanaHalperin/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chanaHalperin/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chanaHalperin/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
