@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chanaHalperin/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chanaHalperin/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chanaHalperin/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chanaHalperin/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chanaHalperin/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chanaHalperin/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chanaHalperin/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanaHalperin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/chanaHalperin/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
 | ------- |
